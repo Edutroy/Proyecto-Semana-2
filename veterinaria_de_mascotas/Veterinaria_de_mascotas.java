@@ -1,4 +1,4 @@
-
+// Clase principal
 package veterinaria_de_mascotas;
 
 import javax.swing.JOptionPane;
