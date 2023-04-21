@@ -9,6 +9,7 @@ public class Veterinaria_de_mascotas {
                 public static String Dueño="";
                 public static String Tipo_animal="";
                 public static String Nombre="";
+		public static String Edad="";
                 public static String Raza="";
                 public static String Sintomas="";
                 public final static String G="GATO";
@@ -22,6 +23,8 @@ public class Veterinaria_de_mascotas {
         Dueño=JOptionPane.showInputDialog(null,"INGRESE EL DUEÑO DE LA MASCOTA");
         Nombre=JOptionPane.showInputDialog(null,"INGRESE EL NOMBRE DE LA MASCOTA");
         Raza=JOptionPane.showInputDialog(null,"INGRESE LA RAZA DE LA MASCOTA");
+	Raza=JOptionPane.showInputDialog(null,"INGRESE LA EDAD DE LA MASCOTA");
+
 Animal1 abrir=new Animal1();
  
  String Opcion_animal=JOptionPane.showInputDialog(null,"Elija la una opcion \n 1.-Perro \n 2.Gato");

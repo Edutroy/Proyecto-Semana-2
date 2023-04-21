@@ -8,6 +8,6 @@ package ejemplo_interfaz_1;
     // -------------------------
      @Override
      public void trabajar() {
-        System.out.println( this.getNombreCompleto() + " está realizando trabajos de fontanería");
+        System.out.println( this.getNombreCompleto() + " realizá trabajos de fontanería");
     }
 }
