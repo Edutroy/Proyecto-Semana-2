@@ -2,11 +2,13 @@
 public class Persona {
     private String nombre;
     private int edad;
+    private ind DNI;
 
     public Persona(String nombre, int edad) {
         this.nombre = nombre;
         this.edad = edad;
     }
+System.out.println("Hola Mundo 2");
 
     // otros métodos de la clase
 }

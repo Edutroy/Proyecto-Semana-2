@@ -4,3 +4,7 @@ public int sumar(int num1, int num2) {
     return resultado;
 }
 int resultado = sumar(3, 5);
+System.out.print("Hola Mundo");
+System.out.print("Hola a todos");
+System.out.print("Hola a Jean");
+System.out.print("Hola a Brandon");
